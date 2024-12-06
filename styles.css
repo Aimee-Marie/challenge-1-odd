@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+
+:root{
+    firstcolor:white;
+    seccolor:black;
+    thircolor:red;
+    forcolor:grey
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
